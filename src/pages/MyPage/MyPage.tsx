@@ -52,6 +52,7 @@ const MyPageContainer = styled.div`
 const ContentWrapper = styled.div`
   display: flex;
   flex-direction: column;
+  width: 700px;
 `;
 
 const ContentTitle = styled.div`
